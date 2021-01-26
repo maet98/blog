@@ -1,0 +1,35 @@
+body {
+    background-color: #3AAFA9;
+    color: #DEF2f1;
+}
+
+.about {
+    background-color:#DEF2f1;
+    color: #17252A;
+    border-radius: 20px;
+    padding: 8px;
+    text-align: ceneter;
+}
+
+.footer * {
+    color: #2B7A78;
+    text-align: end;
+}
+
+.about * {
+    margin: auto;
+}
+
+.perfil {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    border-radius: 50%;
+    border: 4px dotted #2b7a78;
+}
+
+.perfil img {
+    margin-top: -50px;
+    width: 100%;
+    height: auto;
+}
