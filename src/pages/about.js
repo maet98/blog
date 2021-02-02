@@ -11,7 +11,7 @@ export default function about({ data }) {
             <p>
                 Currently working on it.
             </p>
-            <a href="https://github.com/maet98/">
+            <a href="https://www.reddit.com/user/maet98">
                 <FontAwesomeIcon  icon={faReddit} size="3x" />
             </a>
             <a href="https://github.com/maet98/">

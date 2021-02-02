@@ -24,7 +24,7 @@ export default class Layout extends React.Component {
         <div
           css={css`
             margin: 0 auto;
-            max-width: 700px;
+            max-width: 800px;
             padding: ${rhythm(2)};
             padding-top: ${rhythm(1.5)};
           `}

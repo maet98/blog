@@ -11,6 +11,11 @@ body {
     text-align: ceneter;
 }
 
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
 .footer * {
     color: #2B7A78;
     text-align: end;
